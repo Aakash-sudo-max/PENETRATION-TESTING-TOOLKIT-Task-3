@@ -82,3 +82,4 @@ Unauthorized use against third-party systems may be illegal.
 
  OUTPUT:
  
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/4d0bdecf-7f79-4fd7-aaa9-e1802653b216" />
