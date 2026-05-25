@@ -1,3 +1,18 @@
+COMPANY : CODE IT SOLUTIONS
+
+NAME : SANGABATTUNI AAKASH
+
+INTERN ID : CTIS8970
+
+DOMAIN : CYBERSECURITY AND ETHICAL HACKING
+
+DURATION : 8 WEEKS
+
+INTERNSHIP PERIOD : 17 May 2026 - 12 July 2026
+
+MENTOR : Neela Santhosh Kumar
+
+
 # PENETRATION-TESTING-TOOLKIT-Task-3
 🛡️ Penetration Testing Toolkit
 A Python toolkit for educational and authorized security testing.
