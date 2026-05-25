@@ -14,6 +14,12 @@ MENTOR : Neela Santhosh Kumar
 
 
 # PENETRATION-TESTING-TOOLKIT-Task-3
+##A TOOLKIT WITH MULTIPLE
+MODULES (E.G., PORT SCANNER,BRUTE-FORCER) FOR PENETRATIONTESTING
+
+A PYTHON-BASEDMODULAR TOOLKIT WITH DETAILEDDOCUMENTATION
+
+
 🛡️ Penetration Testing Toolkit
 A Python toolkit for educational and authorized security testing.
 This toolkit provides three modules: Port Scanner, Brute Force Login, and Password Generator.
